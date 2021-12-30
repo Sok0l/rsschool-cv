@@ -1,0 +1,18 @@
+head {
+position: static;
+box-sizing: border-box;
+position: static;
+}
+ul {
+    box-sizing: content-box;
+background-color: rgb(12, 14, 13);
+display: flex;
+line-height: 30px;
+}
+li {
+    display: list-item;
+    float: none;
+   border-bottom: 1px solid rebeccapurple;
+list-style: none;
+padding-left: 50px;
+}
