@@ -1,7 +1,7 @@
 # ___`Лев Соколов`___
 `front-end developer`
 
-![photo](https://sun9-44.userapi.com/impf/c625425/v625425289/3ba8f/GC0rG8b3x6c.jpg?size=1280x851&quality=96&sign=10e83a438a5f5f463105a596412a3aaf&type=album)
+![photo](https://i.ibb.co/QdrcwFX/GC0r-G8b3x6c.jpg)
 # Личные данные
 ## Адрес
 -   Россия, г. Псков
