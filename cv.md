@@ -1,5 +1,5 @@
 # ___`Lev Sokolov`___
-`front-end developer`
+
 
 ![photo](https://media.licdn.com/dms/image/D4E03AQEHjMjYikuHxg/profile-displayphoto-shrink_800_800/0/1675715822973?e=1683763200&v=beta&t=7UfP6MYi1es5sq9jFSaZC4iOBPKyroQUpEQjds7Z3AI)
 
